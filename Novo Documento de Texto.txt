@@ -1,4 +1,4 @@
 arquivo
 modifiquei o arquivo 1
-texto novo
+
 texto novo 2
